@@ -1,0 +1,80 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://example.com/to-kill-a-mockingbird.jpg",
+    "review": "A powerful and timeless story that tackles themes of racial injustice and moral growth.",
+    "totalPages": 336,
+    "rating": 4.7,
+    "category": "Classic Literature",
+    "tags": ["Coming-of-Age", "Social Justice"],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 2,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://example.com/1984.jpg",
+    "review": "A dystopian masterpiece that explores the dangers of totalitarianism and surveillance.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Dystopian Fiction",
+    "tags": ["Politics", "Surveillance"],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 3,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://example.com/the-catcher-in-the-rye.jpg",
+    "review": "A coming-of-age novel that captures the angst and alienation of adolescence.",
+    "totalPages": 224,
+    "rating": 4.4,
+    "category": "Classic Literature",
+    "tags": ["Teen Angst", "Identity"],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 4,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://example.com/pride-and-prejudice.jpg",
+    "review": "A witty and romantic comedy of manners set in early 19th-century England.",
+    "totalPages": 432,
+    "rating": 4.8,
+    "category": "Classic Literature",
+    "tags": ["Romance", "Satire"],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "image": "https://example.com/the-lord-of-the-rings.jpg",
+    "review": "An epic fantasy saga filled with rich world-building, adventure, and profound themes.",
+    "totalPages": 1178,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": ["Adventure", "Friendship"],
+    "publisher": "George Allen & Unwin",
+    "yearOfPublishing": 1954
+  },
+  {
+    "bookId": 6,
+    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://example.com/harry-potter-and-the-sorcerers-stone.jpg",
+    "review": "A captivating tale of magic, friendship, and the battle between good and evil.",
+    "totalPages": 309,
+    "rating": 4.7,
+    "category": "Fantasy",
+    "tags": ["Magic", "Adventure"],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 1997
+  }
+]
