@@ -11,8 +11,8 @@ const Books = () => {
   return (
     <>
       <div>
-        <h1 className="text-center text-4xl font-bold playfair-display">
-          Books: {books.length}
+        <h1 className="text-center text-4xl font-bold playfair-display mt-10">
+          Books Available: {books.length}
         </h1>
       </div>
       <div className="grid grid-cols-3  gap-6">

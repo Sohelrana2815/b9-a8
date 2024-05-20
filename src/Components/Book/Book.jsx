@@ -5,7 +5,7 @@ const Book = ({ book }) => {
 
   return (
     <>
-      <Link to={`/books/${bookId}`}>
+      <Link to={`/books/${bookId}`} className="mt-10">
         <div className="card card-compact   bg-base-100 shadow-xl">
           <figure className="bg-base-200 py-10">
             <img src={image} alt="Shoes" />
@@ -17,8 +17,8 @@ const Book = ({ book }) => {
           <div className="card-body">
             <h2 className="card-title playfair-display">{author}</h2>
             <p>{publisher}</p>
-            <div className="border border-dashed"></div>
-            <div className="flex items-center border-2 justify-between">
+            <div className=" border-dashed"></div>
+            <div className="flex items-center  justify-between">
               <p>{category}</p>
               <p className="flex items-center">
                 {rating} <FaRegStar />
