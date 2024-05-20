@@ -11,13 +11,13 @@ const Books = () => {
   return (
     <>
       <div>
-        <h1 className="text-center text-4xl font-bold">
+        <h1 className="text-center text-4xl font-bold playfair-display">
           Books: {books.length}
         </h1>
       </div>
-      <div>
+      <div className="grid grid-cols-3  gap-6">
         {books.map((book) => (
-          <Book key={book.id} book={book}></Book>
+          <Book key={book.bookId} book={book}></Book>
         ))}
       </div>
     </>
