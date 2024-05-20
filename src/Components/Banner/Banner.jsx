@@ -10,7 +10,7 @@ const Banner = () => {
             Books to freshen up <br /> your bookshelf
           </h1>
           <Link to="/list">
-            <button className="btn btn-primary mt-12">View The List</button>
+            <button className="btn btn-primary mt-12 hover:btn-info text-white">View The List</button>
           </Link>
         </div>
         <div>
